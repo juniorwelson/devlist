@@ -1,39 +1,46 @@
-📝 To-Do App — React + TypeScript
+# 📝 To-Do App — React + TypeScript
 
-Um aplicativo de tarefas simples, moderno e eficiente desenvolvido com React, TypeScript, HTML, CSS e Bootstrap Icons.
-Este projeto foi criado para treinar organização, componentização e boas práticas no front-end utilizando TS.
+Um aplicativo de tarefas simples, moderno e eficiente desenvolvido com **React**, **TypeScript**, **HTML**, **CSS** e **Bootstrap Icons**.  
+Este projeto foi criado para treinar organização, componentização e boas práticas no desenvolvimento front-end.
 
-1.🚀 Tecnologias Utilizadas
+---
 
-React 
+## 🚀 Tecnologias Utilizadas
 
-TypeScript
+- **React**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
+- **Bootstrap Icons**
 
-HTML5
+---
 
-CSS3
+## 📌 Funcionalidades
 
-Bootstrap Icons
+- ✔️ Adicionar novas tarefas  
+- ✔️ Editar tarefas existentes  
+- ✔️ Excluir tarefas  
+- ✔️ Interface moderna e responsiva  
+- ✔️ Ícones do Bootstrap para melhorar a experiência visual  
 
+---
 
+## 🖥️ Como executar o projeto
 
-2.📌 Funcionalidades
-
-✔️ Adicionar novas tarefas
-✔️ Editar as tarefas existente
-✔️ Excluir tarefa
-✔️ Interface moderna e responsiva
-✔️ Ícones do Bootstrap para melhorar a experiência visual
-
-3.🖥️ Como executar o projeto
-1. Clone o repositório
+### 1️⃣ Clone o repositório
+```sh
 git clone https://github.com/juniorwelson/devlist
 
-2.Entre na pasta
+```
+
+### 2️⃣ Entre na pasta do projeto
+```sh
 cd devlist
-
-3.Instale as dependências
+```
+### 3️⃣ Instale as dependências
+```sh
 npm install
-
-4.Rode o projeto
+```
+### 4️⃣ Rode o projeto
+```sh
 npm start
