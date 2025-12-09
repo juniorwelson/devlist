@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Site-Welson-Sax/static/css/main.f7189f28.css",
-    "main.js": "/Site-Welson-Sax/static/js/main.911e6efa.js",
-    "index.html": "/Site-Welson-Sax/index.html",
-    "main.f7189f28.css.map": "/Site-Welson-Sax/static/css/main.f7189f28.css.map",
-    "main.911e6efa.js.map": "/Site-Welson-Sax/static/js/main.911e6efa.js.map"
+    "main.css": "/devlist/static/css/main.f7189f28.css",
+    "main.js": "/devlist/static/js/main.911e6efa.js",
+    "index.html": "/devlist/index.html",
+    "main.f7189f28.css.map": "/devlist/static/css/main.f7189f28.css.map",
+    "main.911e6efa.js.map": "/devlist/static/js/main.911e6efa.js.map"
   },
   "entrypoints": [
     "static/css/main.f7189f28.css",
